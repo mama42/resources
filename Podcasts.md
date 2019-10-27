@@ -15,7 +15,7 @@
 - [Kalzumeus](https://www.kalzumeus.com/podcast/)
 
 ## Code
-
+- [CodePen](https://blog.codepen.io/radio/)
 - [Code Podcast](https://codepodcast.com/)
 - [CodeNewbie Podcast](https://www.codenewbie.org/podcast)
 - [La Vie En Code](https://www.lavieencode.net/podcast/): A podcast dedicated so self-taught web developers.
